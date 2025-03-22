@@ -4,5 +4,5 @@ import App from './deft.vue'
 import router from './router';
 
 const app = createApp(App);
-app.mount('#app');
+createApp(App).mount('#app')
 app.use(router);
