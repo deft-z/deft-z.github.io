@@ -60,8 +60,8 @@ button:focus-visible {
 
 #app {
   width: 80%;
-  height:auto;
-  background-color: #ffffff;    
+  background-color: rgba(255, 255, 255, 0.6); 
+  margin-top: 20%;   
   margin-left: 10%;
   margin-right: 10%;
   /* padding: 2rem; */
