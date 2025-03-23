@@ -18,7 +18,7 @@
   </header>
   <div id="main">
     <div class="title">
-      <a href="../video.html" class="titlt-img">
+      <a href="../dist/video.html" class="titlt-img">
         <img src="./pictures/video.jpg" alt="视频" width="150px"></img>
       </a>
       <a href="../video.html"> 
